@@ -1,5 +1,2 @@
-Two-2 two new
-two staging from dev
-three added development 
- 
+const cars = new Array("Saab", "Volvo", "BMW");
  
